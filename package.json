@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "GenomeViewer",
   "main": "lib/GenomeViewer.js",
+  "license": "BSD-3-Clause",
   "author": "Nathan Dunn",
   "homepage": "https://github.com/nathandunn/react-genome-viewer",
   "repository": {
@@ -13,14 +14,14 @@
     "url": "https://github.com/nathandunn/react-genome-viewer/issues"
   },
   "dependencies": {
-    "classnames": "^2.1.2"
+    "classnames": "^2.1.2",
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "babel-eslint": "^4.1.3",
     "eslint": "^1.6.0",
     "eslint-plugin-react": "^3.5.1",
     "gulp": "^3.9.0",
-    "react": "^0.14.0",
     "react-component-gulp-tasks": "^0.7.6",
     "react-dom": "^0.14.0"
   },
